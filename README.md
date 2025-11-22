@@ -35,6 +35,3 @@ pip install torch torchvision numpy matplotlib scipy scikit-learn tqdm tensorflo
 1.  Clone this repository.
 2.  Open `Mnist_DPO.ipynb` in Jupyter or VS Code.
 3.  Run all cells! (The notebook automatically generates the necessary noisy data).
-
-## 📚 Acknowledgements
-This project is based on the article **"What Happens When You Train a CNN to Think like an LLM"**, which provides the conceptual framework for applying DPO to computer vision.
