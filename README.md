@@ -1,6 +1,6 @@
 # Simple DPO: Understanding Direct Preference Optimization with MNIST
 
-> **Based on my article:** [What Happens When You Train a CNN to Think like an LLM](https://medium.com/@joaolages/direct-preference-optimization-dpo-622fc1f18707)
+> **Based on my article:** [What Happens When You Train a CNN to Think like an LLM](https://medium.com/@uthmant14/what-happens-when-you-train-a-cnn-to-think-like-an-llm-f33e5c8161cb)
 
 ## 🧠 What is this?
 This repository contains a minimalist implementation of **Direct Preference Optimization (DPO)**.
